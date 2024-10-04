@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "lucide-vue-next": "^0.447.0",
     "vue": "^3.4.29",
     "vuetify": "^3.7.2"
   },
